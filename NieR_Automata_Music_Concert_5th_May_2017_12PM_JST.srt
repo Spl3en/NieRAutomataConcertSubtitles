@@ -1,6 +1,6 @@
 ﻿1
 00:00:05,000 --> 00:00:09,000
-Credits tu /u/ilfans for the translation, thank you!
+Credits to /u/ilfans for the translation, thank you!
 
 2
 00:00:09,024 --> 00:00:11,024
