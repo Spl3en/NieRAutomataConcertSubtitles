@@ -1,5 +1,9 @@
 # NieR:Automata Concert Subtitles
 
+## How to download
+
+Go [in the release page](https://github.com/Spl3en/NieRAutomataConcertSubtitles/releases), and download the subtitles of your choice.
+
 ## How to use
 
 Drag & drop the subtitles file next to the video file in your file explorer. Open your video in VLC, and that's it.
