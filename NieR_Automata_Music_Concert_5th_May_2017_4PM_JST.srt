@@ -1,6 +1,6 @@
 ﻿1
 00:00:00,000 --> 00:00:04,000
-Credits to /u/ilfans for the translation, thank you!
+Credits to /u/ilfans and /u/RekkaAlexiel for the translation, thank you!
 
 2
 00:00:04,024 --> 00:00:06,024
@@ -717,5 +717,39 @@ been terminated. Reboot is realistically impossible.
 2B: I'm so glad ... I'm so glad...
 
 171
-01:29:37,764 --> 01:29:39,764
+01:29:37,264 --> 01:29:49,106
+Pod 153: It is still unknown what happened that day. It is possible
+that 9S's Black Box had retrieved his memory's personal data.
+
+172
+01:29:49,730 --> 01:29:56,678
+At any rate, it may have been effected by some alien technology yet unknown to us.
+
+173
+01:30:00,839 --> 01:30:05,720
+Pod 042: Everything that lives is designed to end.
+
+174
+01:30:06,369 --> 01:30:09,040
+Pod 153: "They" are perpetually trapped ...
+
+175
+01:30:09,140 --> 01:30:12,677
+... in a never-ending spiral of life and death.
+
+176
+01:30:14,033 --> 01:30:19,483
+Pod 042: However, we cannot give in.
+
+177
+01:30:20,724 --> 01:30:33,960
+9S: Even if this world is cursed, even if this world tries to punish us…
+
+178
+01:30:34,909 --> 01:30:40,321
+2B: Within that spiral, we will continue to fight…
+
+179
+01:30:41,239 --> 01:30:45,548
+2B & 9S: …as we sing the words of prayer.
 
