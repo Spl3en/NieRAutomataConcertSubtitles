@@ -44,7 +44,8 @@ Pod 042: Unit 2B's vital signs confirmed.
 
 12
 00:22:36,628 --> 00:22:44,229
-Memory storage, thought circuits, auxiliary motor functions, all confirmed to have been restarted.
+Memory storage, thought circuits, auxiliary motor
+functions, all confirmed to have been restarted.
 
 13
 00:22:44,537 --> 00:22:47,240
@@ -71,8 +72,9 @@ Pod 042: Report: Unit 2B was killed by unit A2 approximately 1718 hours ago.
 Pod 042: Following that, us tactical support units reconstructed your parts.
 
 19
-00:23:17,816 --> 00:23:29,226
-The virus previously inside you deactivated along with the tower's collapse, and remains in suspension.
+00:23:17,916 --> 00:23:29,326
+The virus previously inside you deactivated along
+with the tower's collapse, and remains in suspension.
 
 20
 00:23:29,507 --> 00:23:33,288
@@ -109,7 +111,8 @@ Pod 153: Negative: An error occurred during unit 9S's reboot sequence.
 
 28
 00:24:06,965 --> 00:24:14,333
-Pod 153: Unknown: All checks were completed, however his personal data will not begin loading procedures, causing an inability to reboot.
+Pod 153: Unknown: All checks were completed, however his personal data
+will not begin loading procedures, causing an inability to reboot.
 
 29
 00:24:15,034 --> 00:24:23,305
@@ -166,4 +169,195 @@ There had to be a way to get 9S to reboot properly.
 41
 00:25:30,802 --> 00:25:34,371
 That's what I believed.
+
+42
+00:40:29,052 --> 00:40:31,222
+September 14th.
+
+43
+00:40:34,656 --> 00:40:39,714
+2B: I received information on what happened while I was gone from the pods.
+
+44
+00:40:40,446 --> 00:40:46,409
+About A2 ... and 9S.
+
+45
+00:40:47,328 --> 00:40:55,363
+I also heard about how the two of them destroyed some huge
+"Tower" that had been created by the machine lifeforms.
+
+46
+00:40:56,270 --> 00:41:03,305
+The rubble from it is still scattered all throughout the city.
+
+47
+00:41:04,273 --> 00:41:08,923
+The City Ruins' landscape had been completely changed.
+
+48
+00:41:09,023 --> 00:41:14,096
+Pod 042: Proposal: Unit 2B should gather information at the resistance camp.
+
+49
+00:41:14,635 --> 00:41:21,118
+2B: The resistance camp was able to miraculously
+avoid damage from the collapse of the tower ...
+
+50
+00:41:21,774 --> 00:41:32,301
+However Devola and Popola, and a few others in the
+resistance, lost their lives in the fight with the machines.
+
+51
+00:41:33,401 --> 00:41:38,465
+Even though Anemone was faced with such a difficult
+situation, she still remained level-headed.
+
+52
+00:41:39,319 --> 00:41:50,414
+I tried speaking to Anemone about the situation with 9S's rebooting,
+but she wasn't able to provide me with any helpful information.
+
+53
+00:41:51,128 --> 00:41:54,778
+Pod 153: Report: Relevant records within the Bunker have been lost.
+
+54
+00:41:55,444 --> 00:41:59,648
+2B: We YoRHa units are a special type.
+
+55
+00:42:00,465 --> 00:42:06,609
+We contain something other androids don't within us — a Black Box.
+
+56
+00:42:06,833 --> 00:42:11,696
+And due to that, we're capable of much higher functionality.
+
+57
+00:42:12,439 --> 00:42:21,627
+However, unlike general androids, our maintenance
+is only able to be done on the Bunker.
+
+58
+00:42:22,746 --> 00:42:36,977
+It's possible to make easy repairs with the small amount of materials and programs at access points,
+but detailed information about the insides of our bodies was lost along with the fall of the Bunker.
+
+59
+00:42:38,136 --> 00:42:44,855
+Even so, I was traveling from place to place looking for the information I needed.
+
+60
+00:42:45,546 --> 00:42:48,889
+No matter ... how long it took.
+
+61
+00:42:49,332 --> 00:42:55,291
+Pod 042: Alert: Unit 2B is taking damage due to maintenance failure.
+
+62
+00:42:55,576 --> 00:43:01,226
+Proposal: Unit 2B should perform proper repair and replenish materials.
+
+63
+00:43:02,428 --> 00:43:08,861
+2B: With how tired I was, even doing simple first aid felt troublesome.
+
+64
+00:43:09,748 --> 00:43:17,090
+In the depths of my heart, I started to feel
+like ... everything I was doing was meaningless.
+
+65
+00:43:18,432 --> 00:43:21,860
+I don't ... care anymore.
+
+66
+00:43:22,146 --> 00:43:26,618
+I wonder if ... 9S will ever wake up.
+
+67
+00:43:27,492 --> 00:43:32,588
+That sort of dark thought process began to take over.
+
+68
+00:43:33,120 --> 00:43:36,059
+And I shook my head.
+
+69
+00:43:37,381 --> 00:43:45,620
+I couldn't give up. I couldn't give up. I couldn't give up.
+
+70
+00:43:46,889 --> 00:43:52,116
+Even if I was just deceiving myself, I couldn't admit that.
+
+71
+00:43:54,163 --> 00:43:57,350
+It caused my body to become heavy.
+
+72
+00:43:58,079 --> 00:44:07,583
+If I go further away from here, I may be
+able to find surviving YoRHa members.
+
+73
+00:44:07,768 --> 00:44:10,711
+Pod 153: Report: Mail notification received.
+
+74
+00:44:11,115 --> 00:44:14,863
+2B: ... Check it.
+
+75
+00:44:15,267 --> 00:44:17,671
+Pod 153: Sender: Jackass.
+
+76
+00:44:17,765 --> 00:44:22,071
+Subject: About 9S's Personal Data Reboot.
+
+77
+00:44:22,981 --> 00:44:25,213
+Yo, how's it going, 2B?
+
+78
+00:44:25,358 --> 00:44:29,620
+I know a little something about 9S's condition.
+
+79
+00:44:29,901 --> 00:44:35,175
+I've been looking into a lot of things since everything
+happened, and I came across some concerning information.
+
+80
+00:44:35,607 --> 00:44:40,460
+There were some logs remaining in the access port outside of 9S's memory storage.
+
+81
+00:44:40,623 --> 00:44:46,484
+They were a communication record from the "Ark" object those machine lifeforms made.
+
+82
+00:44:46,527 --> 00:44:52,069
+I don't know anything about that "Ark" thing, but it might be some sort of server.
+
+83
+00:44:52,226 --> 00:44:56,039
+I'll send you the time and coordinates that were written in that log right away.
+
+84
+00:44:56,047 --> 00:45:00,520
+There might be a hint somewhere in them.
+
+85
+00:45:01,674 --> 00:45:07,445
+This concludes the body of the email. Time and
+three-dimensional coordinate data is attached.
+
+86
+00:45:07,980 --> 00:45:14,880
+2B: Those coordinates ... were right in the area where the Tower collapsed.
 
