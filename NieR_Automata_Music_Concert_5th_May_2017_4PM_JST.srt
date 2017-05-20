@@ -508,3 +508,214 @@ Even if only a little remains of the Ark, I ... I have to ...!!
 01:02:54,779 --> 01:03:01,300
 Pod 042: Alert: Unit 2B entered forced shutdown due to overload.
 
+122
+01:23:39,677 --> 01:23:42,721
+September 19th
+
+123
+01:23:44,985 --> 01:23:48,434
+Pod 042: Emergency nanomachine removal complete.
+
+124
+01:23:48,469 --> 01:23:51,411
+Unit 2B's vital signs confirmed.
+
+125
+01:23:51,765 --> 01:23:53,834
+Entering reboot sequence.
+
+126
+01:24:07,317 --> 01:24:10,053
+Good morning, 2B.
+
+127
+01:24:10,896 --> 01:24:12,411
+2B: Huh? I ...
+
+128
+01:24:12,609 --> 01:24:16,425
+Pod 042: You entered a forced shutdown due to severe continuous operation.
+
+129
+01:24:17,661 --> 01:24:27,259
+2B: When I hurriedly asked about the Ark, the
+pods showed me a small, orange sparkling crystal.
+
+130
+01:24:28,003 --> 01:24:35,055
+What they found seemed to be a remnant of the
+machine lifeforms' communication protocol.
+
+131
+01:24:35,575 --> 01:24:44,817
+If we use that protocol and its data, we could
+create a key, and open up 9S's memory storage.
+
+132
+01:24:45,883 --> 01:24:54,941
+Although I didn't understand the details,
+there was meaning in my continued digging.
+
+133
+01:24:56,272 --> 01:25:01,339
+The pods siphoned out the data and recombined it to create a repair vaccine.
+
+134
+01:25:01,820 --> 01:25:10,281
+Then, we could pull the cable from 9S's access port and create a wired connection.
+
+135
+01:25:11,863 --> 01:25:17,944
+With that, I'd be able to insert the repair vaccine.
+
+136
+01:25:19,039 --> 01:25:30,584
+After that, all I'd have to do is hope that 9S's memory
+storage data could be evacuated into his personal data.
+
+137
+01:25:30,845 --> 01:25:34,121
+Pod 153: Repair vaccine injected.
+
+138
+01:25:39,857 --> 01:25:43,911
+Pod 153: No effect. Re-administering repair vaccine.
+
+139
+01:25:49,251 --> 01:25:52,937
+Pod 153: No effect. Re-administering repair vaccine.
+
+140
+01:25:57,925 --> 01:25:58,992
+Pod 153: No effect.
+
+141
+01:25:59,448 --> 01:26:01,793
+2B: Why ... Why isn't it ...?!
+
+142
+01:26:01,893 --> 01:26:05,293
+Pod 042: Hypothesis: Repair vaccine is a failure.
+
+143
+01:26:05,380 --> 01:26:09,580
+Pod 153: Negative: Repair vaccine's functions confirmed to be normal.
+
+144
+01:26:09,633 --> 01:26:12,923
+2B: Try it again ... Administer it to him again!
+
+145
+01:26:16,740 --> 01:26:18,497
+Pod 153: No effect.
+
+146
+01:26:19,235 --> 01:26:22,340
+2B: Try ... again ...
+
+147
+01:26:26,042 --> 01:26:32,242
+Pod 153: Report: Traces detected indicating the
+memory region of unit 9S's contents have been erased.
+
+148
+01:26:32,244 --> 01:26:35,796
+Pod 042: Negative: It is an effect of the repair vaccine.
+
+149
+01:26:38,984 --> 01:26:43,603
+Hypothesis: Unit 9S's personal data has been lost.
+
+150
+01:26:44,627 --> 01:26:49,094
+2B: His personal data ... is lost ...?
+
+151
+01:26:49,846 --> 01:26:55,636
+Pod 042: His personal data was wiped of his own accord, but
+there is the possibility it was moved to a different location.
+
+152
+01:26:56,515 --> 01:27:03,366
+According to unit A2's records, it is possible his
+data evacuated using the machine lifeforms' Ark.
+
+153
+01:27:04,440 --> 01:27:11,214
+Report: Possibility of recovering 9S's personal data extremely low.
+
+154
+01:27:12,536 --> 01:27:20,300
+2B: No, 9S, it can't be ...
+
+155
+01:27:23,733 --> 01:27:28,648
+We didn't even get to say goodbye, and yet ...
+
+156
+01:27:28,703 --> 01:27:30,435
+Why?...
+
+157
+01:27:31,032 --> 01:27:37,125
+Why am I the only one left? Why?
+
+158
+01:27:42,956 --> 01:27:46,221
+Pod 042: Abnormal signal detected from Black Box.
+
+159
+01:27:47,726 --> 01:27:49,937
+2B: I don't care anymore! I don't ...!
+
+160
+01:27:50,137 --> 01:27:55,604
+Pod 042: Alert: Strange vibrations emanating from Black Box. 
+Temperature rising.
+
+161
+01:27:56,749 --> 01:28:06,240
+Alert: Errors detected in unit's functionality. 
+FFCS offline. NFCS offline. Beginning to transmit current status.
+
+162
+01:28:06,340 --> 01:28:14,343
+Unit 2B's vital signs are deteriorating. 
+Alert: Damage to YoRHa unit’s life energy.
+
+163
+01:28:14,412 --> 01:28:19,012
+Proposal: Head to a safe location for maintenance.
+
+164
+01:28:19,059 --> 01:28:23,135
+Pod 153: Report: Abnormal vibrations detected from Black Box. Temperature rising.
+
+165
+01:28:23,134 --> 01:28:25,776
+Pod 042: This unit has already reported on the abnormal situation.
+
+166
+01:28:25,841 --> 01:28:32,871
+Clarification. This is not coming from 2B’s Black Box but rather from 9S’s.
+
+167
+01:28:32,871 --> 01:28:39,845
+Pod 042: Negative: Unit 9S's personal data has already
+been terminated. Reboot is realistically impossible.
+
+168
+01:29:15,194 --> 01:29:19,019
+9S: Where ... am I ...?
+
+169
+01:29:20,887 --> 01:29:24,982
+2B, what did I ...?
+
+170
+01:29:26,770 --> 01:29:32,420
+2B: I'm so glad ... I'm so glad...
+
+171
+01:29:37,764 --> 01:29:39,764
+
