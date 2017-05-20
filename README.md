@@ -12,8 +12,10 @@ You can also drag&drog the subtitle file in the VLC window, or use the [context 
 
 ## What does contain this repository ?
 
-- `NieR_Automata_Music_Concert_5th_May_2017_12PM_JST.srt` : This is the **4th** recital translation of the concert taking place the 5th May 2017 at **12PM** JST.
-- `NieR_Automata_Music_Concert_5th_May_2017_4PM_JST.srt` : This is the **5th** recital translation of the concert, taking place the 5th May 2017 at **4PM** JST.
+| Filename | Description |
+| -------- | ----------- |
+| `NieR_Automata_Music_Concert_5th_May_2017_12PM_JST.srt` | This is the **4th** recital translation of the concert taking place the 5th May 2017 at **12PM** JST |
+| `NieR_Automata_Music_Concert_5th_May_2017_4PM_JST.srt` | This is the **5th** recital translation of the concert, taking place the 5th May 2017 at **4PM** JST |
 
 ## How to contribute
 
