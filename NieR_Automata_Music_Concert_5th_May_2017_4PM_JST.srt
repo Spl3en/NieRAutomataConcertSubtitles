@@ -1,797 +1,881 @@
 ﻿1
 00:00:00,000 --> 00:00:04,000
-Credits to /u/ilfans, /u/RekkaAlexiel and /u/TwoSidea for the translation, thank you!
+Credits to /u/ilfans, /u/RekkaAlexiel, /u/TwoSidea
+and /u/komasanzura for the translation, thank you!
 
 2
 00:00:04,024 --> 00:00:06,024
 Enjoy watching :)
 
 3
+00:00:06,066 --> 00:00:13,449
+Pod 042: Pod 042 to Pod 153. Start the announcements for the venue.
+
+4
+00:00:14,290 --> 00:00:29,349
+153: Understood. Pod 153 to attendees. Report: We sincerely thank
+you for coming to NieR Music Concert "Ningyotachi no Kioku" today.
+
+5
+00:00:29,982 --> 00:00:39,663
+Warning: Notice to attendees. Recommendation: Within
+this venue, follow the instructions of the staff.
+
+6
+00:00:39,941 --> 00:00:46,689
+Prediction: There is a possibility you will be asked to leave the
+venue in the case you do not follow the instructions of the staff.
+
+7
+00:00:47,278 --> 00:00:55,224
+Recommendation: To guests who have them, turn off all
+sound-emitting devices such as mobile phones in advance.
+
+8
+00:00:55,555 --> 00:01:02,903
+Report: The venue is non-smoking. 
+Smoking is only possible in designated places.
+
+9
+00:01:02,909 --> 00:01:08,983
+Portion of announcement in-charge of completed. 
+The rest of the announcements will be continued by Pod 042.
+
+10
+00:01:09,060 --> 00:01:18,129
+Pod 042: Pod 042 to attendees. 
+Report: Today, due to the circumstances of the performance, the emergency lights are turned off.
+
+11
+00:01:18,438 --> 00:01:22,616
+However, in the case an emergency situation occurs, those lights will be turned on.
+
+12
+00:01:22,828 --> 00:01:26,573
+Recommendation: Verify the positions of the emergency lights.
+
+13
+00:01:26,816 --> 00:01:34,412
+Recommendation: In the worst case of an emergency situation, 
+absolutely follow the instructions of the staff.
+
+14
+00:01:35,153 --> 00:01:41,958
+Warning: Photography, videography and audio recording during the concert is prohibited.
+
+15
+00:01:42,812 --> 00:01:52,340
+In the worst case that such actions are found, in addition to data deletion and confiscation of film, 
+you will be forced to leave.
+
+16
+00:01:52,984 --> 00:02:05,413
+Warning: Do not place or hang your belongings in the aisles or railings. 
+The staff will confiscate items that of which the owner is unknown.
+
+17
+00:02:06,190 --> 00:02:12,962
+Warning: When music or recital performances are ongoing refrain from moving in the seating area.
+
+18
+00:02:13,648 --> 00:02:18,258
+When entering the venue in the midst of the performance, follow the guide of the staff.
+
+19
+00:02:18,458 --> 00:02:23,391
+Pod 153: Pod 153 to Pod 042. It is almost time for the performance to start.
+
+20
+00:02:23,415 --> 00:02:31,648
+Pod 042: Understood. 
+Recommendation: Attendees should stay in their seats and wait for a little longer. That is all.
+
+21
 00:22:00,530 --> 00:22:06,074
 Pod 153: Everything that lives is designed to end.
 
-4
+22
 00:22:06,531 --> 00:22:09,712
 "We" are perpetually trapped ...
 
-5
+23
 00:22:09,938 --> 00:22:14,130
 ... in a never-ending spiral of life and death.
 
-6
+24
 00:22:15,375 --> 00:22:17,479
 Is this a curse?
 
-7
+25
 00:22:17,479 --> 00:22:20,013
 Or some kind of punishment?
 
-8
+26
 00:22:20,623 --> 00:22:23,293
 I often think about the god who blessed us with this cryptic puzzle ...
 
-9
+27
 00:22:23,293 --> 00:22:27,226
 ... and wonder if "we'll" ever have the chance to kill him.
 
-10
+28
 00:22:29,755 --> 00:22:32,025
 (September 5th)
 
-11
+29
 00:22:32,202 --> 00:22:35,687
 Pod 042: Unit 2B's vital signs confirmed.
 
-12
+30
 00:22:36,628 --> 00:22:44,229
 Memory storage, thought circuits, auxiliary motor
 functions, all confirmed to have been restarted.
 
-13
+31
 00:22:44,537 --> 00:22:47,240
 Entering reboot sequence.
 
-14
+32
 00:22:49,616 --> 00:22:52,377
 Good morning, 2B.
 
-15
+33
 00:22:53,259 --> 00:22:54,881
 2B: I ...
 
-16
+34
 00:22:54,981 --> 00:23:05,075
 Pod 042: Report: Unit 2B was killed by unit A2 approximately 1718 hours ago.
 
-17
+35
 00:23:05,178 --> 00:23:11,728
 2B: 1718 hours ago ... So ... 72 days, then.
 
-18
+36
 00:23:11,928 --> 00:23:17,772
 Pod 042: Following that, us tactical support units reconstructed your parts.
 
-19
+37
 00:23:17,916 --> 00:23:29,326
 The virus previously inside you deactivated along
 with the tower's collapse, and remains in suspension.
 
-20
+38
 00:23:29,507 --> 00:23:33,288
 2B: Tower ...? What happened ...?
 
-21
+39
 00:23:33,465 --> 00:23:34,465
 Ah!! 9S ...!!
 
-22
+40
 00:23:35,209 --> 00:23:42,174
 Pod 153: Report: Unit 9S ceased activity approximately 740 hours ago.
 
-23
+41
 00:23:42,195 --> 00:23:45,045
 2B: Pod ... 153?
 
-24
+42
 00:23:45,402 --> 00:23:54,705
 Pod 153: Unit 9S was severely contaminated, however said virus
 deactivated along with the tower's collapse, and remains in suspension.
 
-25
+43
 00:23:55,452 --> 00:23:59,154
 2B: So he's just ... asleep?
 
-26
+44
 00:23:59,232 --> 00:24:03,955
 Pod 153: Negative: An error occurred during unit 9S's reboot sequence.
 
-27
+45
 00:24:04,363 --> 00:24:06,754
 2B: What do you mean, an error ...?
 
-28
+46
 00:24:06,965 --> 00:24:14,333
 Pod 153: Unknown: All checks were completed, however his personal data
 will not begin loading procedures, causing an inability to reboot.
 
-29
+47
 00:24:15,034 --> 00:24:23,305
 2B: His personal data won't load ... Then in that case, run
 the monitoring sequence, and skip the check sequence ...
 
-30
+48
 00:24:23,305 --> 00:24:30,303
 Pod 153: Negative: This unit has already attempted 345
 combinations 34,500 times, and all have ended in failure.
 
-31
+49
 00:24:30,603 --> 00:24:37,763
 Pod 153: Unit 9S's current state suggests there is a possibility
 his personal data has been lost due to some unknown cause.
 
-32
+50
 00:24:38,531 --> 00:24:41,772
 2B: His personal data is ... lost ...?
 
-33
+51
 00:24:42,154 --> 00:24:47,577
 Pod 153: Proposal: Unit 2B should consider disposing of unit 9S's body.
 
-34
+52
 00:24:47,977 --> 00:24:51,977
 2B: There's no way I could ... just dispose of his body ...!
 
-35
+53
 00:24:54,469 --> 00:24:56,202
 Pod 153: ... Understood.
 
-36
+54
 00:24:59,746 --> 00:25:06,404
 2B: After being reconstructed, there wasn't even a hint of dirt on 9S's body ...
 
-37
+55
 00:25:06,753 --> 00:25:11,536
 His face ... looked just like he was sleeping.
 
-38
+56
 00:25:12,707 --> 00:25:21,328
 I took my weapon in hand, and packed the minimum
 necessary provisions, before standing up.
 
-39
+57
 00:25:22,568 --> 00:25:24,632
 I had to go.
 
-40
+58
 00:25:25,434 --> 00:25:30,243
 There had to be a way to get 9S to reboot properly.
 
-41
+59
 00:25:30,802 --> 00:25:34,371
 That's what I believed.
 
-42
+60
 00:40:29,052 --> 00:40:31,222
 September 14th.
 
-43
+61
 00:40:34,656 --> 00:40:39,714
 2B: I received information on what happened while I was gone from the pods.
 
-44
+62
 00:40:40,446 --> 00:40:46,409
 About A2 ... and 9S.
 
-45
+63
 00:40:47,328 --> 00:40:55,363
 I also heard about how the two of them destroyed some huge
 "Tower" that had been created by the machine lifeforms.
 
-46
+64
 00:40:56,270 --> 00:41:03,305
 The rubble from it is still scattered all throughout the city.
 
-47
+65
 00:41:04,273 --> 00:41:08,923
 The City Ruins' landscape had been completely changed.
 
-48
+66
 00:41:09,023 --> 00:41:14,096
 Pod 042: Proposal: Unit 2B should gather information at the resistance camp.
 
-49
+67
 00:41:14,635 --> 00:41:21,118
 2B: The resistance camp was able to miraculously
 avoid damage from the collapse of the tower ...
 
-50
+68
 00:41:21,774 --> 00:41:32,301
 However Devola and Popola, and a few others in the
 resistance, lost their lives in the fight with the machines.
 
-51
+69
 00:41:33,401 --> 00:41:38,465
 Even though Anemone was faced with such a difficult
 situation, she still remained level-headed.
 
-52
+70
 00:41:39,319 --> 00:41:50,414
 I tried speaking to Anemone about the situation with 9S's rebooting,
 but she wasn't able to provide me with any helpful information.
 
-53
+71
 00:41:51,128 --> 00:41:54,778
 Pod 153: Report: Relevant records within the Bunker have been lost.
 
-54
+72
 00:41:55,444 --> 00:41:59,648
 2B: We YoRHa units are a special type.
 
-55
+73
 00:42:00,465 --> 00:42:06,609
 We contain something other androids don't within us — a Black Box.
 
-56
+74
 00:42:06,833 --> 00:42:11,696
 And due to that, we're capable of much higher functionality.
 
-57
+75
 00:42:12,439 --> 00:42:21,627
 However, unlike general androids, our maintenance
 is only able to be done on the Bunker.
 
-58
+76
 00:42:22,746 --> 00:42:36,977
 It's possible to make easy repairs with the small amount of materials and programs at access points,
 but detailed information about the insides of our bodies was lost along with the fall of the Bunker.
 
-59
+77
 00:42:38,136 --> 00:42:44,855
 Even so, I was traveling from place to place looking for the information I needed.
 
-60
+78
 00:42:45,546 --> 00:42:48,889
 No matter ... how long it took.
 
-61
+79
 00:42:49,332 --> 00:42:55,291
 Pod 042: Alert: Unit 2B is taking damage due to maintenance failure.
 
-62
+80
 00:42:55,576 --> 00:43:01,226
 Proposal: Unit 2B should perform proper repair and replenish materials.
 
-63
+81
 00:43:02,428 --> 00:43:08,861
 2B: With how tired I was, even doing simple first aid felt troublesome.
 
-64
+82
 00:43:09,748 --> 00:43:17,090
 In the depths of my heart, I started to feel
 like ... everything I was doing was meaningless.
 
-65
+83
 00:43:18,432 --> 00:43:21,860
 I don't ... care anymore.
 
-66
+84
 00:43:22,146 --> 00:43:26,618
 I wonder if ... 9S will ever wake up.
 
-67
+85
 00:43:27,492 --> 00:43:32,588
 That sort of dark thought process began to take over.
 
-68
+86
 00:43:33,120 --> 00:43:36,059
 And I shook my head.
 
-69
+87
 00:43:37,381 --> 00:43:45,620
 I couldn't give up. I couldn't give up. I couldn't give up.
 
-70
+88
 00:43:46,889 --> 00:43:52,116
 Even if I was just deceiving myself, I couldn't admit that.
 
-71
+89
 00:43:54,163 --> 00:43:57,350
 It caused my body to become heavy.
 
-72
+90
 00:43:58,079 --> 00:44:07,583
 If I go further away from here, I may be
 able to find surviving YoRHa members.
 
-73
+91
 00:44:07,768 --> 00:44:10,711
 Pod 153: Report: Mail notification received.
 
-74
+92
 00:44:11,115 --> 00:44:14,863
 2B: ... Check it.
 
-75
+93
 00:44:15,267 --> 00:44:17,671
 Pod 153: Sender: Jackass.
 
-76
+94
 00:44:17,765 --> 00:44:22,071
 Subject: About 9S's Personal Data Reboot.
 
-77
+95
 00:44:22,981 --> 00:44:25,213
 Yo, how's it going, 2B?
 
-78
+96
 00:44:25,358 --> 00:44:29,620
 I know a little something about 9S's condition.
 
-79
+97
 00:44:29,901 --> 00:44:35,175
 I've been looking into a lot of things since everything
 happened, and I came across some concerning information.
 
-80
+98
 00:44:35,607 --> 00:44:40,460
 There were some logs remaining in the access port outside of 9S's memory storage.
 
-81
+99
 00:44:40,623 --> 00:44:46,484
 They were a communication record from the "Ark" object those machine lifeforms made.
 
-82
+100
 00:44:46,527 --> 00:44:52,069
 I don't know anything about that "Ark" thing, but it might be some sort of server.
 
-83
+101
 00:44:52,226 --> 00:44:56,039
 I'll send you the time and coordinates that were written in that log right away.
 
-84
+102
 00:44:56,047 --> 00:45:00,520
 There might be a hint somewhere in them.
 
-85
+103
 00:45:01,674 --> 00:45:07,445
 This concludes the body of the email. Time and
 three-dimensional coordinate data is attached.
 
-86
+104
 00:45:07,980 --> 00:45:14,880
 2B: Those coordinates ... were right in the area where the Tower collapsed.
 
-87
+105
 00:59:09,502 --> 00:59:12,919
 September 17th
 
-88
+106
 00:59:15,314 --> 00:59:23,461
 2B: Mountains and mountains of white rubble, as far as I could see.
 
-89
+107
 00:59:25,040 --> 00:59:30,337
 I'd arrived at the center of where the Tower collapsed.
 
-90
+108
 00:59:30,946 --> 00:59:35,013
 And it was there, where I began digging.
 
-91
+109
 00:59:35,608 --> 00:59:40,987
 Pod 153: Hypothesis: Origin point is 40 meters below the current point.
 
-92
+110
 00:59:41,087 --> 00:59:45,417
 Pod 042: Proposal: Search for a more efficient method for digging.
 
-93
+111
 00:59:45,417 --> 00:59:53,451
 2B: That's right, the coordinates Jackass sent me
 pointed right to a location within the Tower's rubble.
 
-94
+112
 00:59:53,791 --> 00:59:59,209
 I was digging through it so I could reach the position she gave me.
 
-95
+113
 00:59:59,556 --> 01:00:07,714
 But the material was much more firm than I expected it
 to be, and my digging wasn't going particularly well.
 
-96
+114
 01:00:09,289 --> 01:00:15,842
 My breath began to show, and before I'd realized it, it was snowing.
 
-97
+115
 01:00:16,926 --> 01:00:22,629
 It seems the Tower's rubble was absorbing the
 surrounding area's heat and causing the area to cool.
 
-98
+116
 01:00:23,325 --> 01:00:31,103
 According to the pods, it was made of materials derived from the bodies
 of machine lifeforms, which centered around silicon, among other things.
 
-99
+117
 01:00:32,115 --> 01:00:35,986
 But that didn't matter.
 
-100
+118
 01:00:36,453 --> 01:00:40,551
 I only cared about my digging.
 
-101
+119
 01:00:41,093 --> 01:00:46,652
 Pod 153: Hypothesis: Origin point is 25 meters below the current point.
 
-102
+120
 01:00:46,852 --> 01:00:52,109
 Pod 042: Alert: Unit 2B is taking damage due to maintenance failure.
 
-103
+121
 01:00:53,424 --> 01:00:58,198
 2B: The Tower's materials became
 increasingly firm the further down I went.
 
-104
+122
 01:00:58,798 --> 01:01:10,455
 I was using my weapon to dig, but I had to stop using my one-handed sword to switch to
 something better suited, and I proceeded downward by practically crushing the materials.
 
-105
+123
 01:01:11,079 --> 01:01:17,646
 I continued on, my mind devoid of any other thoughts, until I finished.
 
-106
+124
 01:01:20,084 --> 01:01:23,699
 I could feel an ache run through my pain sensors.
 
-107
+125
 01:01:23,950 --> 01:01:30,698
 But it was only thanks to that pain that I was able to keep my sanity.
 
-108
+126
 01:01:31,547 --> 01:01:37,318
 Pod 153: Hypothesis: Origin point is 12 meters below the current point.
 
-109
+127
 01:01:37,506 --> 01:01:43,084
 Pod 042: Alert: Unit 2B is taking damage due to maintenance failure.
 
-110
+128
 01:01:43,451 --> 01:01:51,229
 Alert: If no proper repair is performed, it will cause severe impact to the unit's body.
 
-111
+129
 01:01:52,154 --> 01:01:58,543
 2B: As I continued to dig, I found out what that "Ark" really was.
 
-112
+130
 01:01:59,377 --> 01:02:04,878
 It seemed to be a huge memory unit, made by combining complex crystals.
 
-113
+131
 01:02:05,358 --> 01:02:13,440
 However, as it'd been shattered to pieces, I couldn't find a single "living" crystal.
 
-114
+132
 01:02:14,169 --> 01:02:19,750
 Regardless, I continued digging in search of the Ark's crystals.
 
-115
+133
 01:02:19,962 --> 01:02:23,369
 With each swing of my weapon, blood began to scatter.
 
-116
+134
 01:02:23,814 --> 01:02:31,922
 I couldn't feel my fingertips anymore, and
 the sensors running from my wrists had died.
 
-117
+135
 01:02:32,308 --> 01:02:37,740
 The bolts I'd used to forcibly fix it were starting to dig into my skin.
 
-118
+136
 01:02:38,166 --> 01:02:40,459
 But that didn't matter.
 
-119
+137
 01:02:40,626 --> 01:02:44,959
 Somewhere up ahead, the information I needed to save 9S was ...
 
-120
+138
 01:02:45,646 --> 01:02:51,397
 Even if only a little remains of the Ark, I ... I have to ...!!
 
-121
+139
 01:02:54,779 --> 01:03:01,300
 Pod 042: Alert: Unit 2B entered forced shutdown due to overload.
 
-122
+140
 01:23:39,677 --> 01:23:42,721
 September 19th
 
-123
+141
 01:23:44,985 --> 01:23:48,434
 Pod 042: Emergency nanomachine removal complete.
 
-124
+142
 01:23:48,469 --> 01:23:51,411
 Unit 2B's vital signs confirmed.
 
-125
+143
 01:23:51,765 --> 01:23:53,834
 Entering reboot sequence.
 
-126
+144
 01:24:07,317 --> 01:24:10,053
 Good morning, 2B.
 
-127
+145
 01:24:10,896 --> 01:24:12,411
 2B: Huh? I ...
 
-128
+146
 01:24:12,609 --> 01:24:16,425
 Pod 042: You entered a forced shutdown due to severe continuous operation.
 
-129
+147
 01:24:17,661 --> 01:24:27,259
 2B: When I hurriedly asked about the Ark, the
 pods showed me a small, orange sparkling crystal.
 
-130
+148
 01:24:28,003 --> 01:24:35,055
 What they found seemed to be a remnant of the
 machine lifeforms' communication protocol.
 
-131
+149
 01:24:35,575 --> 01:24:44,817
 If we use that protocol and its data, we could
 create a key, and open up 9S's memory storage.
 
-132
+150
 01:24:45,883 --> 01:24:54,941
 Although I didn't understand the details,
 there was meaning in my continued digging.
 
-133
+151
 01:24:56,272 --> 01:25:01,339
 The pods siphoned out the data and recombined it to create a repair vaccine.
 
-134
+152
 01:25:01,820 --> 01:25:10,281
 Then, we could pull the cable from 9S's access port and create a wired connection.
 
-135
+153
 01:25:11,863 --> 01:25:17,944
 With that, I'd be able to insert the repair vaccine.
 
-136
+154
 01:25:19,039 --> 01:25:30,584
 After that, all I'd have to do is hope that 9S's memory
 storage data could be evacuated into his personal data.
 
-137
+155
 01:25:30,845 --> 01:25:34,121
 Pod 153: Repair vaccine injected.
 
-138
+156
 01:25:39,857 --> 01:25:43,911
 Pod 153: No effect. Re-administering repair vaccine.
 
-139
+157
 01:25:49,251 --> 01:25:52,937
 Pod 153: No effect. Re-administering repair vaccine.
 
-140
+158
 01:25:57,925 --> 01:25:58,992
 Pod 153: No effect.
 
-141
+159
 01:25:59,448 --> 01:26:01,793
 2B: Why ... Why isn't it ...?!
 
-142
+160
 01:26:01,893 --> 01:26:05,293
 Pod 042: Hypothesis: Repair vaccine is a failure.
 
-143
+161
 01:26:05,380 --> 01:26:09,580
 Pod 153: Negative: Repair vaccine's functions confirmed to be normal.
 
-144
+162
 01:26:09,633 --> 01:26:12,923
 2B: Try it again ... Administer it to him again!
 
-145
+163
 01:26:16,740 --> 01:26:18,497
 Pod 153: No effect.
 
-146
+164
 01:26:19,235 --> 01:26:22,340
 2B: Try ... again ...
 
-147
+165
 01:26:26,042 --> 01:26:32,242
 Pod 153: Report: Traces detected indicating the
 memory region of unit 9S's contents have been erased.
 
-148
+166
 01:26:32,244 --> 01:26:35,796
 Pod 042: Negative: It is an effect of the repair vaccine.
 
-149
+167
 01:26:38,984 --> 01:26:43,603
 Hypothesis: Unit 9S's personal data has been lost.
 
-150
+168
 01:26:44,627 --> 01:26:49,094
 2B: His personal data ... is lost ...?
 
-151
+169
 01:26:49,846 --> 01:26:55,636
 Pod 042: His personal data was wiped of his own accord, but
 there is the possibility it was moved to a different location.
 
-152
+170
 01:26:56,515 --> 01:27:03,366
 According to unit A2's records, it is possible his
 data evacuated using the machine lifeforms' Ark.
 
-153
+171
 01:27:04,440 --> 01:27:11,214
 Report: Possibility of recovering 9S's personal data extremely low.
 
-154
+172
 01:27:12,536 --> 01:27:20,300
 2B: No, 9S, it can't be ...
 
-155
+173
 01:27:23,733 --> 01:27:28,648
 We didn't even get to say goodbye, and yet ...
 
-156
+174
 01:27:28,703 --> 01:27:30,435
 Why?...
 
-157
+175
 01:27:31,032 --> 01:27:37,125
 Why am I the only one left? Why?
 
-158
+176
 01:27:42,956 --> 01:27:46,221
 Pod 042: Abnormal signal detected from Black Box.
 
-159
+177
 01:27:47,726 --> 01:27:49,937
 2B: I don't care anymore! I don't ...!
 
-160
+178
 01:27:50,137 --> 01:27:55,604
 Pod 042: Alert: Strange vibrations emanating from Black Box.
 Temperature rising.
 
-161
+179
 01:27:56,749 --> 01:28:06,240
 Alert: Errors detected in unit's functionality.
 FFCS offline. NFCS offline. Beginning to transmit current status.
 
-162
+180
 01:28:06,340 --> 01:28:14,343
 Unit 2B's vital signs are deteriorating.
 Alert: Damage to YoRHa unit’s life energy.
 
-163
+181
 01:28:14,412 --> 01:28:19,012
 Proposal: Head to a safe location for maintenance.
 
-164
+182
 01:28:19,059 --> 01:28:23,135
 Pod 153: Report: Abnormal vibrations detected from Black Box. Temperature rising.
 
-165
+183
 01:28:23,134 --> 01:28:25,776
 Pod 042: This unit has already reported on the abnormal situation.
 
-166
+184
 01:28:25,841 --> 01:28:32,871
 Clarification. This is not coming from 2B’s Black Box but rather from 9S’s.
 
-167
+185
 01:28:32,871 --> 01:28:39,845
 Pod 042: Negative: Unit 9S's personal data has already
 been terminated. Reboot is realistically impossible.
 
-168
+186
 01:29:15,194 --> 01:29:19,019
 9S: Where ... am I ...?
 
-169
+187
 01:29:20,887 --> 01:29:24,982
 2B, what did I ...?
 
-170
+188
 01:29:26,770 --> 01:29:32,420
 2B: I'm so glad ... I'm so glad...
 
-171
+189
 01:29:37,264 --> 01:29:49,106
 Pod 153: It is still unknown what happened that day. It is possible
 that 9S's Black Box had retrieved his memory's personal data.
 
-172
+190
 01:29:49,730 --> 01:29:56,678
 At any rate, it may have been effected by some alien technology yet unknown to us.
 
-173
+191
 01:30:00,839 --> 01:30:05,720
 Pod 042: Everything that lives is designed to end.
 
-174
+192
 01:30:06,369 --> 01:30:09,040
 Pod 153: "They" are perpetually trapped ...
 
-175
+193
 01:30:09,140 --> 01:30:12,677
 ... in a never-ending spiral of life and death.
 
-176
+194
 01:30:14,033 --> 01:30:19,483
 Pod 042: However, we cannot give in.
 
-177
+195
 01:30:20,724 --> 01:30:33,960
 9S: Even if this world is cursed, even if this world tries to punish us…
 
-178
+196
 01:30:34,909 --> 01:30:40,321
 2B: Within that spiral, we will continue to fight…
 
-179
+197
 01:30:41,239 --> 01:30:45,548
 2B & 9S: …as we sing the words of prayer.
 
-180
+198
 02:25:02,479 --> 02:25:08,148
 Pod 042: Report: This concludes all of the sessions.
 
-181
+199
 02:25:08,343 --> 02:25:16,529
 Pod 153: Warning: Please do not forget all
 your belongings, be careful of your footing.
 
-182
+200
 02:25:16,717 --> 02:25:19,470
 Pod 042: And with that, we thank you for comin--
 
-183
+201
 02:25:19,757 --> 02:25:26,233
 9S: WAH! Wait a minute! Why don't we say our farewells,
 since we have the chance? Hey 2B! Quickly, quickly!
 
-184
+202
 02:25:26,300 --> 02:25:28,663
 2B: Why are you in such a rush, Nines?
 
-185
+203
 02:25:28,687 --> 02:25:32,438
 9S: Because if we don't hurry, the train will be gone.
 
-186
+204
 02:25:32,740 --> 02:25:36,431
 2B: That big box of metal can't be easily destroyed you know.
 
-187
+205
 02:25:36,531 --> 02:25:38,731
 9S: Come on! Just do it, quickly!
 
-188
+206
 02:25:39,067 --> 02:25:45,336
 2B: ... Roger. And with that, thank you for coming today.
 
-189
+207
 02:25:45,783 --> 02:25:50,636
 Everyone: Thank you very, very much.
 
