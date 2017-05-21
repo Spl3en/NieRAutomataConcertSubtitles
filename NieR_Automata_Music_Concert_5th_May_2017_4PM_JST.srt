@@ -480,11 +480,11 @@ However, as it'd been shattered to pieces, I couldn't find a single "living" cry
 Regardless, I continued digging in search of the Ark's crystals.
 
 115
-01:02:19,962 --> 01:02:31,923
+01:02:19,962 --> 01:02:23,369
 With each swing of my weapon, blood began to scatter.
 
 116
-01:02:23,814 --> 01:02:29,614
+01:02:23,814 --> 01:02:31,922
 I couldn't feel my fingertips anymore, and
 the sensors running from my wrists had died.
 
@@ -493,7 +493,7 @@ the sensors running from my wrists had died.
 The bolts I'd used to forcibly fix it were starting to dig into my skin.
 
 118
-01:02:38,166 --> 01:02:45,548
+01:02:38,166 --> 01:02:40,459
 But that didn't matter.
 
 119
@@ -670,17 +670,17 @@ Pod 042: Abnormal signal detected from Black Box.
 
 160
 01:27:50,137 --> 01:27:55,604
-Pod 042: Alert: Strange vibrations emanating from Black Box. 
+Pod 042: Alert: Strange vibrations emanating from Black Box.
 Temperature rising.
 
 161
 01:27:56,749 --> 01:28:06,240
-Alert: Errors detected in unit's functionality. 
+Alert: Errors detected in unit's functionality.
 FFCS offline. NFCS offline. Beginning to transmit current status.
 
 162
 01:28:06,340 --> 01:28:14,343
-Unit 2B's vital signs are deteriorating. 
+Unit 2B's vital signs are deteriorating.
 Alert: Damage to YoRHa unit’s life energy.
 
 163
