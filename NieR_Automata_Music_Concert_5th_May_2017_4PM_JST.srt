@@ -1,6 +1,6 @@
 ﻿1
 00:00:00,000 --> 00:00:04,000
-Credits to /u/ilfans and /u/RekkaAlexiel for the translation, thank you!
+Credits to /u/ilfans, /u/RekkaAlexiel and /u/TwoSidea for the translation, thank you!
 
 2
 00:00:04,024 --> 00:00:06,024
@@ -752,4 +752,46 @@ Pod 042: However, we cannot give in.
 179
 01:30:41,239 --> 01:30:45,548
 2B & 9S: …as we sing the words of prayer.
+
+180
+02:25:02,479 --> 02:25:08,148
+Pod 042: Report: This concludes all of the sessions.
+
+181
+02:25:08,343 --> 02:25:16,529
+Pod 153: Warning: Please do not forget all
+your belongings, be careful of your footing.
+
+182
+02:25:16,717 --> 02:25:19,470
+Pod 042: And with that, we thank you for comin--
+
+183
+02:25:19,757 --> 02:25:26,233
+9S: WAH! Wait a minute! Why don't we say our farewells,
+since we have the chance? Hey 2B! Quickly, quickly!
+
+184
+02:25:26,300 --> 02:25:28,663
+2B: Why are you in such a rush, Nines?
+
+185
+02:25:28,687 --> 02:25:32,438
+9S: Because if we don't hurry, the train will be gone.
+
+186
+02:25:32,740 --> 02:25:36,431
+2B: That big box of metal can't be easily destroyed you know.
+
+187
+02:25:36,531 --> 02:25:38,731
+9S: Come on! Just do it, quickly!
+
+188
+02:25:39,067 --> 02:25:45,336
+2B: ... Roger. And with that, thank you for coming today.
+
+189
+02:25:45,783 --> 02:25:50,636
+Everyone: Thank you very, very much.
 
